@@ -1,1 +1,1 @@
-# Discreate_mathematics
+# DiscreateMathematics
